@@ -63,3 +63,9 @@
     github.com/dgrijalva/jwt-go/request
     
     这里分两个api，一个是通过login获取token，然后根据token访问另一个api。
+    
+2. 测试
+- login
+    ![Alt text](./token-20180226161433.png)
+- resource  
+    ![Alt text](./resource-20180226161503.png)  
