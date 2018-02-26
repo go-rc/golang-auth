@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	SecretKey = "welcome to wangshubo's blog"
+	SecretKey = "c49d89322bb06363a2264f55a097f3b6"
 )
 
 func fatal(err error)  {
